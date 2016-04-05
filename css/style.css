@@ -1,11 +1,15 @@
 #games {
-height:10px;
-width:10px;
 background-image: url("http://www.gamesinfo.club/wp-content/uploads/2015/12/video-games.png");  
 }
 #travel {
-height:4px;
-width:4px;
-background-image: url("http://www.travel-aroundtheworld.info/wp-content/uploads/2015/10/general-travel-icons-super.jpg");
+background-image: url("htt");
 }
-#jumbot
+.gamereview{
+    
+    width:100%;
+    background:green;
+
+}
+#HomePage {
+    background-image: url("http://www.gamesinfo.club/wp-content/uploads/2015/12/video-games.png");
+}
